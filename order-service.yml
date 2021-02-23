@@ -1,8 +1,0 @@
-microservice:
-  payment-service:
-    endpoints:
-      endpoint:
-        uri: http://PAYMENT-SERVICE/payment/doPayment
-        
-  order-service:
-    endpoint: tajel
